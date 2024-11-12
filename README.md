@@ -1,6 +1,6 @@
-# CwebGen
+# CWebGen
 
-CwebGen -- A tool to study colour structure of scattering amplitudes in IR limit
+CWebGen -- A tool to study colour structure of scattering amplitudes in IR limit
 
 Authors: Neelima Agarwal, Sourav Pal, Aditya Srivastav, Anurag Tripathi
 
